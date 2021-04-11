@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+git config --global user.email "streetboyz88.al@gmail.com"
+git config --global user.name "streetboyz88"
